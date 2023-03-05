@@ -1,8 +1,10 @@
 # Tugas 1 - Praktikum Teknologi Mobile
 
-### Nama     : Harya Anggitama
-### NIM      : 123190125
-### Kelas    : IF-A
+Nama     : Harya Anggitama
+
+NIM      : 123190125
+
+Kelas    : IF-A
 
 ## Konfigurasi
 
@@ -12,6 +14,6 @@ Android Studio  : 2021.3.1
 
 ## Hasil
 
-![login-page](./images/login_page.gif)
+<img src="./images/login_page.gif" alt="login-test" width="50%" height="50%">
 
 
